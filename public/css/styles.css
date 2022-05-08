@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&family=Montserrat:wght@500&display=swap');
 html {
   background-color: #E4E9FD;
   background-image: -webkit-linear-gradient(65deg, #A683E3 50%, #E4E9FD 50%);
@@ -98,4 +98,37 @@ footer {
   color: white;
   color: rgba(0, 0, 0, 0.5);
   text-align: center;
+}
+
+
+
+
+@media screen and (max-width:485px) {
+  html, body{
+    font-family: 'Montserrat', sans-serif;
+  }
+}
+/* for mobiles  */
+@media screen and (max-width:600px) {
+  html, body{
+    font-family: 'Montserrat', sans-serif;
+  }
+}
+/* tabs  */
+@media screen and (max-width:768px) {
+  html, body{
+    font-family: 'Montserrat', sans-serif;
+  }
+}
+/* laptops */
+@media screen and (max-width:992px) {
+  html, body{
+    font-family: 'Montserrat', sans-serif;
+  }
+}
+/* large screen */
+@media screen and (max-width:1200px) {
+  html, body{
+    font-family: 'Montserrat', sans-serif;
+  }
 }
