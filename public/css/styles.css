@@ -120,15 +120,4 @@ footer {
     font-family: 'Montserrat', sans-serif;
   }
 }
-/* laptops */
-@media screen and (max-width:992px) {
-  html, body{
-    font-family: 'Montserrat', sans-serif;
-  }
-}
-/* large screen */
-@media screen and (max-width:1200px) {
-  html, body{
-    font-family: 'Montserrat', sans-serif;
-  }
-}
+ 
